@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://seomagicianph08-prog.github.io/winter-haven-seamles-77983/sitemap.xml
